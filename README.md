@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bruna</h1>
-<h3 align="center">A dedicated engineering student at a French school with a strong foundation in QA, transitioning to developer career.</h3>
+<h3 align="center">A engineering student at a French school with a strong foundation in QA, transitioning to developer career.</h3>
 
 - 🌱 I’m currently learning **TypeScript and React**
 
