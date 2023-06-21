@@ -12,10 +12,4 @@ I'm a engineering student at a French school with a strong foundation in QA, tra
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gsantosbruna&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gsantosbruna&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
