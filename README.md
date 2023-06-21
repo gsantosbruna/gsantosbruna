@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **TypeScript and React**
 
-- 🤝 I’m looking for help with **XCTest, XCUITest**
+- 🤝 I can help with **XCTest, XCUITest**
 
 - 💬 Ask me about **manual and automated tests**
 
