@@ -1,8 +1,5 @@
 # 💫 About Me:
 I'm an engineering student at a French school with a strong foundation in QA, working as an iOS developer.
-(https://instagram.com/brnasantos) 
-
-logo=linkedin&logoColor=white)](https://linkedin.com/in/brunarobertasantos) 
 
 # 💻 Tech Stack:
 QA:
