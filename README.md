@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a engineering student at a French school with a strong foundation in QA, transitioning to a developer career.
+I'm an engineering student at a French school with a strong foundation in QA, working as an iOS developer.
 
 
 ## 🌐 Socials:
